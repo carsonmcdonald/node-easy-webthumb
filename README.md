@@ -15,7 +15,7 @@ The easy way to install is to use [npm](https://github.com/isaacs/npm):
 # USAGE
 
 ```javascript
-var easythumb = require('./lib/easythumb.js');
+var easythumb = require('easywebthumb');
 
 var apiuser = '<api user>';
 var apikey = '<api key>';
