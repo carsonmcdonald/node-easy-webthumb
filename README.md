@@ -10,7 +10,7 @@ You will need your own API key to use this wrapper. For more information see the
 
 The easy way to install is to use [npm](https://github.com/isaacs/npm):
 
-    npm install zlibstream
+    npm install easywebthumb
 
 # USAGE
 
