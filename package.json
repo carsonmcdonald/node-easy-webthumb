@@ -1,0 +1,23 @@
+{
+  "name": "easywebthumb",
+  "author": "Carson McDonald <carson@ioncannon.net>",
+  "description": "EasyThumb Bluga.net WebThumb API wrapper",
+  "homepage": "https://github.com/carsonmcdonald/node-easy-webthumb",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/carsonmcdonald/node-easy-webthumb.git"
+  },
+  "licenses": [
+      { "type": "MIT" }
+  ],
+  "main": "./lib/easythumb",
+  "engines": {
+    "node": "~0.4.7"
+  },
+  "dependencies": {
+    "request": "2.1",
+    "hashlib": "1.0.1"
+  },
+  "devDependencies": {}
+}
