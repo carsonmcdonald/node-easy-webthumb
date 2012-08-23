@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/carsonmcdonald/node-easy-webthumb.png)](http://travis-ci.org/carsonmcdonald/node-easy-webthumb)
 # NAME
 
 node-easywebthumb - EasyThumb Bluga.net WebThumb API wrapper for node.js
